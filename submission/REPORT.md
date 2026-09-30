@@ -8,7 +8,7 @@
 - **MSSV:** 2A202602754
 - **Lớp:** K4-L3B
 - **Repository URL:** https://github.com/CDanh0301/K4-L3-DAY13-CaoDucAnh-2A202602754-Monitoring-LLMOps
-- **Commit SHA cuối:** 
+- **Commit SHA cuối:** c0d4b8de5bb8e9c3aa95a843c6a0206d6da2de16
 - **Challenge ID:** day13-k4-l3b-monitoring-llmops-v1
 - **Tên project Langfuse cá nhân:** `day13-k4-l3b-2A202602754`
 
